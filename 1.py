@@ -91,4 +91,4 @@ async def tank(ctx, rang, vid, strana, sposop_poluchenia):
     else:
         await ctx.send("Танк не найден. Попробуйте проверить параметры.")
 
-bot.run("ODQyOTk3MDE1NzM4MDU2NzQ0.YJ9cJg.6tjaj9mSvgGVpGGj2dHPpzUXZY4")
+bot.run("тут мой токен")
